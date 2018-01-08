@@ -1,0 +1,15 @@
+{
+  "name": "nodeble",
+  "version": "1.0.0",
+  "description": "Gateway server for talking to cloud and sensor node vi bluetooth.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BLE",
+    "Noble"
+  ],
+  "author": "Yagnik",
+  "license": "MIT"
+}
