@@ -11,5 +11,8 @@
     "Noble"
   ],
   "author": "Yagnik",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "noble": "^1.8.1"
+  }
 }
